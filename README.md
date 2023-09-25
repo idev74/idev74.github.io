@@ -1,6 +1,6 @@
 # idev74.github.io
 
-### Hi there 👋, my name is Isabella!
+### Hi, my name is Isabella!
 #### ACS major and Shopify intern (She/Her)
 ![banner](https://user-images.githubusercontent.com/77900249/225109464-e31343c1-5168-49ae-97d4-d25879498d73.png)
 
